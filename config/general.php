@@ -1,15 +1,13 @@
 <?php
 
 /** site name */
-$site_name = "Bootstrap Site";
+$site_name = "DSMG";
 
 /** site slogan */
 /** this will appear on the home page by default */
-$site_slogan = "Insert catchy slogan here. I know you want to!";
+$site_slogan = "Durham School Media Group";
 
 /** copyright holder */
-/** you may modify the copyrights */
-/** i ask nicely for you to reference me */
 $copyright_name = "Graham Campbell";
 
 /** copyright date */
@@ -21,7 +19,7 @@ $copyright_date = "2013";
 /** cdn location */
 /** this may be a full url or a path relative to index.php */
 /** do not include a tailing slash */
-$cdn_location = "cdn";
+$cdn_location = "http://assets.dsmg.co.uk/cdn";
 
 /** production status */
 /** setting this to true will hide all php errors and warnings */
